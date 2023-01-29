@@ -11,8 +11,12 @@
             "id": "da0151e72467eb51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "testfolder/学习Obsidian基本操作.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "testfolder/学习Obsidian基本操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "testfolder/学习Obsidian基本操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "testfolder/学习Obsidian基本操作.md"
+              }
             }
           },
           {
@@ -155,10 +163,10 @@
   },
   "active": "da0151e72467eb51",
   "lastOpenFiles": [
+    "2023-01-29.md",
     "Recording 20230129222546.webm",
     "未命名.canvas",
     "未命名 1.canvas",
-    "2023-01-29.md",
     "testfolder/MarkDown学习笔记.md",
     "testfolder/学习Obsidian基本操作.md",
     "202301292219.md"
