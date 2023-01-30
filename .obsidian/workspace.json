@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#初级用法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,12 +164,12 @@
   },
   "active": "da0151e72467eb51",
   "lastOpenFiles": [
+    "testfolder/学习Obsidian基本操作.md",
+    "testfolder/MarkDown学习笔记.md",
     "2023-01-29.md",
     "Recording 20230129222546.webm",
     "未命名.canvas",
     "未命名 1.canvas",
-    "testfolder/MarkDown学习笔记.md",
-    "testfolder/学习Obsidian基本操作.md",
     "202301292219.md"
   ]
 }
