@@ -1,3 +1,14 @@
 {
-  "promptDelete": false
+  "promptDelete": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 Inbox",
+  "attachmentFolderPath": "attachment",
+  "strictLineBreaks": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en"
+  ]
 }

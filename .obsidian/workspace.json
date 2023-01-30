@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testfolder/学习Obsidian基本操作.md",
+                "file": "00 Inbox/测试链接.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testfolder/学习Obsidian基本操作.md",
+                "file": "00 Inbox/测试链接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testfolder/学习Obsidian基本操作.md",
+                "file": "00 Inbox/测试链接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testfolder/学习Obsidian基本操作.md"
+                "file": "00 Inbox/测试链接.md"
               }
             }
           },
@@ -142,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -162,14 +161,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da0151e72467eb51",
+  "active": "bbb773f69d82a43d",
   "lastOpenFiles": [
-    "testfolder/学习Obsidian基本操作.md",
-    "testfolder/MarkDown学习笔记.md",
-    "2023-01-29.md",
-    "Recording 20230129222546.webm",
-    "未命名.canvas",
-    "未命名 1.canvas",
+    "00 Inbox/2023-01-29.md",
+    "01 testfolder/MarkDown学习笔记.md",
+    "01 testfolder/学习Obsidian基本操作.md",
+    "00 Inbox/未命名.canvas",
+    "00 Inbox/未命名 1.canvas",
+    "00 Inbox/Recording 20230129222546.webm",
     "202301292219.md"
   ]
 }
