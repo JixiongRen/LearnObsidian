@@ -400,11 +400,13 @@ public static int add(int a, int b)
 
 ```
 
+^code
+
   
 
 ***
 
-### 1.12 表格
+### 1.12 表格 ^table
 
 表格使用|来分割不同的单元格，使用-来分隔表头和其他行
 

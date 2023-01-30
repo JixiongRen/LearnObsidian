@@ -1,4 +1,4 @@
-
+![[MarkDown学习笔记#^table|一个标题]]
 # 1 Obsidian是什么
 
 ### 加一行测试Obsidian Git
